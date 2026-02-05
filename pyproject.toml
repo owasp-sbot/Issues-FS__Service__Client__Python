@@ -1,5 +1,5 @@
 [tool.poetry]
-name        = "issues_fs_service_client"
+name        = "issues_fs_service_client_python"
 version     = "v0.4.1"
 description = "Issues-FS Service Client - API schemas and Python client"
 authors     = ["Dinis Cruz <dinis.cruz@owasp.org>"]

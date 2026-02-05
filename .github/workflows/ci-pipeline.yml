@@ -20,7 +20,7 @@ on:
         default: false
 
 env:
-  PACKAGE_NAME: 'issues_fs_service_client'
+  PACKAGE_NAME: 'issues_fs_service_client_python'
 
 jobs:
   run-tests:
